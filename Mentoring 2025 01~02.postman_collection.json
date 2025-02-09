@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "032aa284-95e7-438a-9cf2-97e12143f10a",
+		"name": "Mentoring 2025 01~02",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25709361",
+		"_collection_link": "https://red-shuttle-817693.postman.co/workspace/Personal-Work-Space~d414b9e4-bdf7-4ab0-b85a-7648123af450/collection/25709361-032aa284-95e7-438a-9cf2-97e12143f10a?action=share&source=collection_link&creator=25709361"
+	},
+	"item": [
+		{
+			"name": "CORS Core",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
