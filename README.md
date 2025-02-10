@@ -22,7 +22,7 @@ git clone git@github.com:merge-simpson/mentoring-cors-core-2025-client.git
 
 </details>
 
-## 어떤 작업을 포함하나요?
+## 어떤 작업을 포함할까요?
 
 - JitPack 저장소를 스캔하도록 repositories 목록에 JitPack 메이븐 저장소를 등록합니다.  
   Gradle 프로젝트에서는 `build.gradle`(`build.gradle.kts`) 파일에서 등록합니다.
